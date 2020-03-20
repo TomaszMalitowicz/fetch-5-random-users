@@ -1,0 +1,19 @@
+button {
+  /* display: block; */
+  /* position: fixed; */
+  /* top: 0%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, 0%); */
+  align-self: center;
+  align-items: flex-end;
+  background-color: #fff;
+  border: 2px solid black;
+  padding: 7px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: .3s;
+}
+button:hover {
+  background-color:#000;
+  color:white;
+}
